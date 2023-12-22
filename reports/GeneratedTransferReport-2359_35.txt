@@ -1,0 +1,40 @@
+Generated Transfer Report
+Generated On: 2023-12-21T23:59:35.192696800
+
+Courses to Transfer: [ENG1004, ENG1002, ENG1001]
+
+Transferable Course Count by Degree Program:
+
+Accelerated IT Bachelor's and Master's (B.S. in IT + M.S. in IT Management): 2
+BA Elementary Education: 2
+BA Special Education and Elementary Education (Dual Licensure): 2
+BA Special Education, Mild to Moderate: 2
+BS Business Administration Accounting: 2
+BS Business Administration Human Resource Management: 2
+BS Business Administration IT Management: 2
+BS Business Administration Management: 1
+BS Business Administration Marketing: 1
+BS Cloud Computing: 1
+BS Computer Science: 2
+BS Cybersecurity and Information Assurance: 2
+BS Data Analytics: 1
+BS Finance: 1
+BS Health Information Management: 2
+BS Health and Human Services: 1
+BS Healthcare Administration: 2
+BS Information Technology: 2
+BS Mathematics Education (Middle Grades): 2
+BS Mathematics Education (Secondary): 2
+BS Network Engineering and Security: 1
+BS Network Engineering and Security Cisco Track: 1
+BS Nursing (RN to BSN): 1
+BS Nursing - Prelicensure (Pre-Nursing): 1
+BS Science Education (Middle Grades): 2
+BS Science Education (Secondary Biological Science): 2
+BS Science Education (Secondary Chemistry): 2
+BS Science Education (Secondary Earth Science): 2
+BS Science Education (Secondary Physics): 2
+BS Software Engineering: 2
+BS Software Engineering C Track: 2
+BS Supply Chain and Operations Management: 1
+BS and Post-Baccalaureate Certificate Nursing (RN to MSN track): 1

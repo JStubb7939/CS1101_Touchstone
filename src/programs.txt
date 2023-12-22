@@ -713,7 +713,7 @@ SCIE1051
 SCIE1045
 SCIE1046
 STAT1001
-Program:Bachelor of Arts, Elementary Education
+Program:BA Elementary Education
 ENG1001
 ENG1002
 ENG1020
@@ -744,7 +744,7 @@ SCIE1021
 CHEM1002
 SCIE1051
 SCIE1046
-Program:Bachelor of Arts, Special Education and Elementary Education (Dual Licensure)
+Program:BA Special Education and Elementary Education (Dual Licensure)
 ENG1001
 ENG1002
 ENG1020
@@ -775,7 +775,7 @@ SCIE1021
 CHEM1002
 SCIE1051
 SCIE1046
-Program:Bachelor of Arts, Special Education, Mild to Moderate
+Program:BA Special Education, Mild to Moderate
 ENG1001
 ENG1002
 ENG1020
@@ -804,7 +804,7 @@ SCIE1021
 CHEM1002
 SCIE1051
 SCIE1046
-Program:Bachelor of Science, Mathematics Education (Middle Grades)
+Program:BS Mathematics Education (Middle Grades)
 ENG1001
 ENG1002
 ENG1020
@@ -834,7 +834,7 @@ SCIE1046
 STAT1001
 MATH1035
 MATH1040
-Program:Bachelor of Science, Mathematics Education (Secondary)
+Program:BS Mathematics Education (Secondary)
 ENG1001
 ENG1002
 ENG1020
@@ -863,7 +863,7 @@ SCIE1046
 STAT1001
 MATH1035
 MATH1040
-Program:Bachelor of Science, Science Education (Middle Grades)
+Program:BS Science Education (Middle Grades)
 ENG1001
 ENG1002
 ENG1020
@@ -891,7 +891,7 @@ ENVS1001
 SCIE1045
 CHEM1001
 CHEM1002
-Program:Bachelor of Science, Science Education (Secondary Biological Science)
+Program:BS Science Education (Secondary Biological Science)
 ENG1001
 ENG1002
 ENG1020
@@ -918,7 +918,7 @@ SCIE1045
 SCIE1050
 CHEM1001
 CHEM1002
-Program:Bachelor of Science, Science Education (Secondary Chemistry)
+Program:BS Science Education (Secondary Chemistry)
 ENG1001
 ENG1002
 ENG1020
@@ -947,7 +947,7 @@ MATH1040
 ENVS1001
 CHEM1001
 CHEM1002
-Program:Bachelor of Science, Science Education (Secondary Earth Science)
+Program:BS Science Education (Secondary Earth Science)
 ENG1001
 ENG1002
 ENG1020
@@ -974,7 +974,7 @@ STAT1001
 ENVS1001
 CHEM1001
 CHEM1002
-Program:Bachelor of Science, Science Education (Secondary Physics)
+Program:BS Science Education (Secondary Physics)
 ENG1001
 ENG1002
 ENG1020
