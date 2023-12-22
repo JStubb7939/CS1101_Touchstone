@@ -131,7 +131,10 @@ public class Main {
         try {
             String currentPath = System.getProperty("user.dir");
             LocalTime time = LocalTime.now();
-            String fileName = String.format("GeneratedTransferReport-%s%s_%s.txt", time.getHour(), time.getMinute(), time.getSecond());
+            String fileName = String.format("GeneratedTransferReport-%02d%02d_%02d.txt",
+                    time.getHour(),
+                    time.getMinute(),
+                    time.getSecond());
             Path filePath = Paths.get(currentPath, "reports", fileName);
             Files.createDirectories(filePath.getParent());
             Files.writeString(filePath, report, StandardCharsets.UTF_8);
